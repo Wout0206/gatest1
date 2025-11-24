@@ -28,4 +28,4 @@ jobs:
               uses: docker/build-push-action@v5
               with:
                   push: true
-                  tags: ghcr.io/woutraes/helloworldapp:latest
+                  tags: ghcr.io/wout0206/helloworldapp:latest
